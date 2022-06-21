@@ -1,4 +1,4 @@
-package org.potential_java.keep_learning;
+package org.potential;
 
 /**
  * Hello world!
